@@ -1,16 +1,17 @@
-# React + Vite
+# 电影搜索
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+前端学习练手项目，在 AI 的逐步指导下从零搭建。
 
-Currently, two official plugins are available:
+## 背景
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+我是前端初学者，通过 Claude 的逐步指导完成这个项目。目的是理解前端开发的完整流程：组件、状态管理、API 调用、路由、部署。每一步都确保真正理解后再推进。
 
-## React Compiler
+## 技术栈
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React + Vite
+- 计划接入：TMDB 电影 API
+- 计划部署：Vercel
 
-## Expanding the ESLint configuration
+## 学习记录
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+项目过程中记录了用 AI 学习前端的方法总结，见仓库内 `AI学习前端方法.md`。
